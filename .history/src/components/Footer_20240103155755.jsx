@@ -1,0 +1,16 @@
+const { default: Link } = require("next/link");
+
+function Footer() {
+    return(
+        <>
+            <footer>
+                <p>Todos os direitos reservados - NextSore</p>
+                <div>
+                    
+                </div>
+            </footer>
+        </>
+    )
+}
+
+export default Footer
